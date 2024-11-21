@@ -15,3 +15,30 @@ Source code and final version: https://github.com/SujitSingh521/MERN-Full-Stack-
 🚀 Finally, we'll deploy our fully functional MERN stack blog application for free using the 'render' platform, enabling you to share your creation and add it to your portfolio.
 
 💻 All you need is a basic understanding of JavaScript and React to start this project. If you're as excited as we are, let's dive in and build this incredible project together! Subscribe, hit the bell, and join us on this coding adventure. 🚀✨
+
+
+
+
+
+
+
+
+
+
+
+
+
+===============================================================================================>
+
+Demo : https://mern-full-stack-project/
+===============================================================================================>
+### Project Structure :-
+
+
+export default function App() {
+  return (
+    <h1 className="text-3xl text-center text-blue-500 ">
+      Hello world!
+    </h1>
+  )
+}
